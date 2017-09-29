@@ -1,0 +1,15 @@
+{
+    "name": "mip-shuyang-stats",
+    "version": "1.0.0",
+    "description": "接口回调组件",
+    "author": "cc",
+    "contributors": [
+        {
+            "name": "cc",
+            "email": "1345731127@qq.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
